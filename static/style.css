@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #f9f9f9;
+    font-family: 'Ubuntu', "Montserrat", sans-serif;
+}
+
+*::selection {
+    background: #D62F3A;
+}
+
+body {
+    background: linear-gradient(130deg, #2E3141 0%, #2E3141 20%, #303343 20%, #303343 25%, #2E3141 25%, #2E3141 27%, #303343 27%, #303343 50%, #2E3141 50%, #2E3141 85%, #303343 85%, #303343 90%, #2E3141 90%);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* #outer {
+  width: 75%;
+} */
+
+#header {
+    width: 100%;
+    max-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0;
+    padding: 5px 10px;
+}
+
+#header img {
+    height: 75px;
+}
+
+#header p {
+    margin: 0 15px;
+    font-size: 35px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+
+#navbar {
+    width: 100%;
+    height: 50px;
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #20222e;
+    border-radius: 10px;
+}
+
+#navbar a {
+    padding: 0 15px;
+    text-decoration: none;
+    font-size: 20px;
+    opacity: 0.5;
+    transition: 0.25s linear;
+}
+
+#navbar a:hover {
+    opacity: 1;
+}
+
+#navbar .activeNav {
+    opacity: 1;
+}
+
+
+
+.section {
+    width: 100%;
+    display: flex;
+    background-color: #20222e;
+    padding: 25px;
+    border-radius: 15px;
+margin-bottom: 100px;
+}
+
+.section section.sectionText {
+    padding: 0 25px;
+    font-size: 20px;
+    line-spacing: 40px;
+}
+
+.section section.sectionText h1 {
+        margin-bottom: 50px;
+    font-size: 40px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+.section section.sectionText h2 {
+    margin-bottom: 50px;
+    font-size: 22.5px;
+    font-weight: 200;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+footer {
+  text-align: center;
+}

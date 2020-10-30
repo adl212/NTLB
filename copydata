@@ -1,0 +1,519 @@
+{
+    "users": [
+        {
+            "username": "jephthe",
+            "displayname": "KEEPTHELB",
+            "races": 9061,
+            "speed": 89.99048073574367,
+            "accuracy": 97.0709327572437,
+            "points": 1275320,
+            "carID": 89
+        },
+        {
+            "username": "c9c807ed4196955874fb2664496d99ea",
+            "displayname": "ttvCMullzie",
+            "races": 18308,
+            "speed": 203.57688786653165,
+            "accuracy": 96.78059571286141,
+            "points": 3575407,
+            "carID": 59
+        },
+        {
+            "username": "robotracer02",
+            "displayname": "inconceivable",
+            "races": 639,
+            "speed": 107.04050573636151,
+            "accuracy": 97.07067392873549,
+            "points": 95226,
+            "carID": 77
+        },
+        {
+            "username": "corndog",
+            "displayname": "TheCorndog",
+            "races": 51,
+            "speed": 96.22222222222223,
+            "accuracy": 95.4003079291763,
+            "points": 7206,
+            "carID": 86
+        },
+        {
+            "username": "hypertyper55",
+            "displayname": "Try2Win4Glory",
+            "races": 622,
+            "speed": 103.3896963324881,
+            "accuracy": 98.39565282932186,
+            "points": 92840,
+            "carID": 219
+        },
+        {
+            "username": "ikandoit",
+            "displayname": "\u26a1\u2c72\u00eezard\u26a1",
+            "races": 22364,
+            "speed": 104.28873595382798,
+            "accuracy": 94.55215700258857,
+            "points": 3217191,
+            "carID": 137
+        },
+        {
+            "username": "grz1",
+            "displayname": "Limt\u2009\u2009",
+            "races": 869,
+            "speed": 105.50190471922198,
+            "accuracy": 94.69802010480599,
+            "points": 125703,
+            "carID": 171
+        },
+        {
+            "username": "IPSDSILVA",
+            "displayname": "Spooky Admin",
+            "races": 1853,
+            "speed": 85.90703309315819,
+            "accuracy": 93.03544920135384,
+            "points": 246444,
+            "carID": 218
+        },
+        {
+            "username": "travis",
+            "displayname": "Travis",
+            "races": 4,
+            "speed": 125.68421052631578,
+            "accuracy": 96.68341708542714,
+            "points": 630,
+            "carID": 86
+        },
+        {
+            "username": "popcorntwists",
+            "displayname": "slowHeaven",
+            "races": 2917,
+            "speed": 64.01241084740299,
+            "accuracy": 94.52321420927662,
+            "points": 363973,
+            "carID": 77
+        },
+        {
+            "username": "moilyn",
+            "displayname": "\u2728\ua9c1\u26bdWF\u26bd\ua9c2\u2728",
+            "races": 18233,
+            "speed": 52.85478060967818,
+            "accuracy": 97.77016330159832,
+            "points": 2253750,
+            "carID": 204
+        },
+        {
+            "username": "adl2212",
+            "displayname": "travis adl212s legit",
+            "races": 68,
+            "speed": 97.5,
+            "accuracy": 97.20014582573825,
+            "points": 9832,
+            "carID": 49
+        },
+        {
+            "username": "7284c5c7a3e001949adb3d6d40b41c62",
+            "displayname": "Whipped Cream",
+            "races": 19098,
+            "speed": 74.41837734870192,
+            "accuracy": 94.49696569508029,
+            "points": 2476218,
+            "carID": 105
+        },
+        {
+            "username": "hyruledude31",
+            "displayname": "NeedForSpeed",
+            "races": 852,
+            "speed": 77.60204500844479,
+            "accuracy": 94.25844750792339,
+            "points": 111469,
+            "carID": 208
+        },
+        {
+            "username": "letssingkumbaya",
+            "displayname": "bday is today pog",
+            "races": 2333,
+            "speed": 83.49333289488828,
+            "accuracy": 94.6074828854929,
+            "points": 312862,
+            "carID": 207
+        },
+        {
+            "username": "nighthawk242",
+            "displayname": "nighthawk242",
+            "races": 292,
+            "speed": 89.4929242163735,
+            "accuracy": 93.50039015393347,
+            "points": 39519,
+            "carID": 155
+        },
+        {
+            "username": "2ff1406e93666f78655d9a8b314a0823",
+            "displayname": "Fox{Inuki}",
+            "races": 1324,
+            "speed": 80.67402858155191,
+            "accuracy": 97.27435229633403,
+            "points": 180742,
+            "carID": 106
+        },
+        {
+            "username": "4speed_nitro",
+            "displayname": "Banana-Bot",
+            "races": 13712,
+            "speed": 81.07761819506493,
+            "accuracy": 94.60721804473567,
+            "points": 1823146,
+            "carID": 105
+        },
+        {
+            "username": "crimsonpython24",
+            "displayname": "[FreeHK] Black Mamba",
+            "races": 22473,
+            "speed": 97.73546385299773,
+            "accuracy": 98.59610839851577,
+            "points": 3298537,
+            "carID": 76
+        },
+        {
+            "username": "theteamracer",
+            "displayname": "HelixzAlpha",
+            "races": 1087,
+            "speed": 99.08942276800056,
+            "accuracy": 97.34000242093067,
+            "points": 158231,
+            "carID": 71
+        },
+        {
+            "username": "tinklehoy",
+            "displayname": "unavoidable",
+            "races": 6608,
+            "speed": 82.30365900991497,
+            "accuracy": 94.65336058798715,
+            "points": 882862,
+            "carID": 105
+        },
+        {
+            "username": "drozy",
+            "displayname": "Road to 100 Million",
+            "races": 18747,
+            "speed": 186.78421836036418,
+            "accuracy": 99.0841905825453,
+            "points": 3592319,
+            "carID": 59
+        },
+        {
+            "username": "hi_i_am_epic",
+            "displayname": "NoThisIsJohn-YT",
+            "races": 2229,
+            "speed": 95.20212819020699,
+            "accuracy": 96.86709517332724,
+            "points": 318695,
+            "carID": 110
+        },
+        {
+            "username": "nerdynerd21",
+            "displayname": "H-E-A-R-T-L-E-S-S",
+            "races": 21563,
+            "speed": 97.33923326174802,
+            "accuracy": 97.07646251898109,
+            "points": 3112041,
+            "carID": 105
+        },
+        {
+            "username": "c6j7s4",
+            "displayname": "abstract",
+            "races": 24027,
+            "speed": 75.33569661155818,
+            "accuracy": 93.37928372211749,
+            "points": 3088749,
+            "carID": 77
+        },
+        {
+            "username": "claclash",
+            "displayname": "KingTyper",
+            "races": 18716,
+            "speed": 61.57663196201509,
+            "accuracy": 98.19105409590472,
+            "points": 2403554,
+            "carID": 145
+        },
+        {
+            "username": "reble1",
+            "displayname": "\u6377JaguarGoalie\u8c79",
+            "races": 20,
+            "speed": 42.718052738336716,
+            "accuracy": 90.71225071225071,
+            "points": 2202,
+            "carID": 215
+        },
+        {
+            "username": "md3miggy",
+            "displayname": "King_Falcon",
+            "races": 101,
+            "speed": 41.31326732673267,
+            "accuracy": 94.71988956631773,
+            "points": 11543,
+            "carID": 53
+        },
+        {
+            "username": "076a3fabcaa800dfd79b47c7421c1812",
+            "displayname": "MyShinyCarIsAnimated",
+            "races": 2920,
+            "speed": 76.75265120461218,
+            "accuracy": 91.24678525060574,
+            "points": 368691,
+            "carID": 86
+        },
+        {
+            "username": "colinfurze2020",
+            "displayname": "Colin Furze",
+            "races": 3,
+            "speed": 38.59090909090909,
+            "accuracy": 98.23321554770318,
+            "points": 352,
+            "carID": 220
+        },
+        {
+            "username": "22micahshir",
+            "displayname": "CreekCraftTakesLs",
+            "races": 706,
+            "speed": 53.841095890410955,
+            "accuracy": 91.63062283737024,
+            "points": 82106,
+            "carID": 86
+        },
+        {
+            "username": "2007123royal",
+            "displayname": "ROYAL 24k",
+            "races": 3957,
+            "speed": 78.78228760998124,
+            "accuracy": 90.89179447145136,
+            "points": 501333,
+            "carID": 77
+        },
+        {
+            "username": "daby1111",
+            "displayname": "SkittlesTyper is bad",
+            "races": 1242,
+            "speed": 95.90742101396032,
+            "accuracy": 93.31532980923926,
+            "points": 171475,
+            "carID": 167
+        },
+        {
+            "username": "cf5a308249766e25fd3b1f1d62554909",
+            "displayname": "APtony415_YT",
+            "races": 5877,
+            "speed": 70.87789072094907,
+            "accuracy": 92.70966286269191,
+            "points": 737945,
+            "carID": 89
+        },
+        {
+            "username": "mado0201",
+            "displayname": "Spooky Thunder",
+            "races": 544,
+            "speed": 46.15721984761197,
+            "accuracy": 93.19730082295911,
+            "points": 62400,
+            "carID": 218
+        },
+        {
+            "username": "GRZ2",
+            "displayname": "GoldenBlast",
+            "races": 59,
+            "speed": 65.95982958003653,
+            "accuracy": 93.37836341490421,
+            "points": 7326,
+            "carID": 3
+        },
+        {
+            "username": "volatile",
+            "displayname": "-v Keep the LBs",
+            "races": 2480,
+            "speed": 83.95822218203192,
+            "accuracy": 98.72195870114987,
+            "points": 347608,
+            "carID": 106
+        },
+        {
+            "username": "karleyjo",
+            "displayname": "\u221eKarleyJo\u2764\u266b",
+            "races": 1215,
+            "speed": 79.49938881053127,
+            "accuracy": 98.98329461746992,
+            "points": 168070,
+            "carID": 106
+        },
+        {
+            "username": "volatile_alt",
+            "displayname": "\u2286strfry\u2287",
+            "races": 859,
+            "speed": 80.16784095498811,
+            "accuracy": 98.94669667148088,
+            "points": 119065,
+            "carID": 106
+        },
+        {
+            "username": "a30f534754802f3b8a98a27e0dc41765",
+            "displayname": "NANA-NT businessman",
+            "races": 11645,
+            "speed": 61.1857126779009,
+            "accuracy": 95.36864551610105,
+            "points": 1450322,
+            "carID": 124
+        },
+        {
+            "username": "7d7db6bcf010ee113b95239a1dda5296",
+            "displayname": "KingTyper",
+            "races": 12394,
+            "speed": 60.4597319602449,
+            "accuracy": 89.53528185015719,
+            "points": 1445161,
+            "carID": 56
+        },
+        {
+            "username": "159a803301d094011329752c226df781",
+            "displayname": "Nxght_",
+            "races": 3005,
+            "speed": 90.77219285094296,
+            "accuracy": 94.30019924266922,
+            "points": 411984,
+            "carID": 59
+        },
+        {
+            "username": "jimmystar",
+            "displayname": "Sugeny",
+            "races": 16434,
+            "speed": 66.13037691404536,
+            "accuracy": 95.33392964288589,
+            "points": 2084756,
+            "carID": 77
+        },
+        {
+            "username": "granoreo6",
+            "displayname": "Grammie",
+            "races": 1168,
+            "speed": 57.486081506696785,
+            "accuracy": 97.94262186213308,
+            "points": 147278,
+            "carID": 36
+        },
+        {
+            "username": "petromax",
+            "displayname": "Level800petromax",
+            "races": 1833,
+            "speed": 84.4501137534758,
+            "accuracy": 97.37260926508215,
+            "points": 253849,
+            "carID": 177
+        },
+        {
+            "username": "abdsilva",
+            "displayname": "Cookie",
+            "races": 265,
+            "speed": 42.79880059970015,
+            "accuracy": 91.5423094707638,
+            "points": 29450,
+            "carID": 37
+        },
+        {
+            "username": "sellacc",
+            "displayname": "sellacc",
+            "races": 379,
+            "speed": 44.91169811320755,
+            "accuracy": 89.79056837496039,
+            "points": 41672,
+            "carID": 37
+        },
+        {
+            "username": "googlemax12",
+            "displayname": "Bubbles",
+            "races": 6968,
+            "speed": 105.09116742170465,
+            "accuracy": 94.92630316508578,
+            "points": 1009007,
+            "carID": 77
+        },
+        {
+            "username": "Hudodo5",
+            "displayname": "Richie",
+            "races": 1595,
+            "speed": 116.08370243152852,
+            "accuracy": 96.97251435486056,
+            "points": 244445,
+            "carID": 115
+        },
+        {
+            "username": "kidscanthackme",
+            "displayname": "Ashh Kashh",
+            "races": 1133,
+            "speed": 53.94769613947696,
+            "accuracy": 84.04827859121488,
+            "points": 120913,
+            "carID": 36
+        },
+        {
+            "username": "6abfba2db7bdebc7a49ba6621856b939",
+            "displayname": "Mr-Pears",
+            "races": 1270,
+            "speed": 83.84830834056265,
+            "accuracy": 93.37631471595041,
+            "points": 168305,
+            "carID": 52
+        },
+        {
+            "username": "noschool222",
+            "displayname": "KingofNTtype",
+            "races": 4203,
+            "speed": 73.17078540370962,
+            "accuracy": 82.28035864724997,
+            "points": 472346,
+            "carID": 68
+        },
+        {
+            "username": "sicbiker1231",
+            "displayname": "Sicky Made KSI HYpeR",
+            "races": 6270,
+            "speed": 77.60861212802203,
+            "accuracy": 90.48050948464933,
+            "points": 787455,
+            "carID": 65
+        },
+        {
+            "username": "ffa04bbc76a0bff1828d1b7364d7f32c",
+            "displayname": "JoinMasterMindsTeam",
+            "races": 2293,
+            "speed": 77.0083818163889,
+            "accuracy": 92.02271103359789,
+            "points": 292255,
+            "carID": 218
+        },
+        {
+            "username": "hypedbeast24 ",
+            "displayname": "I like ya cut G",
+            "races": 1533,
+            "speed": 71.12012819187429,
+            "accuracy": 93.71737566229858,
+            "points": 194757,
+            "carID": 53
+        },
+        {
+            "username": "nathanielsec",
+            "displayname": "View=Gift1mil",
+            "races": 1224,
+            "speed": 49.200039397222504,
+            "accuracy": 93.00539709485754,
+            "points": 141843,
+            "carID": 59
+        },
+        {
+            "username": "bluetomboy11",
+            "displayname": "V - I - B - E",
+            "races": 1564,
+            "speed": 70.97086452720423,
+            "accuracy": 90.48880288645664,
+            "points": 191745,
+            "carID": 217
+        }
+    ]
+}
+
+#updated: 1.10.11; //2020 10 20

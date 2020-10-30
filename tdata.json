@@ -1,0 +1,172 @@
+{
+    "teams": [
+        {
+            "tag": "IRAN3",
+            "name": "Bigger Comps Later!",
+            "races": 96237,
+            "speed": 101.66581144435168,
+            "accuracy": 95.56674037618862,
+            "points": 13872187
+        },
+        {
+            "tag": "HZT",
+            "name": "Horizon Typers",
+            "races": 3939,
+            "speed": 50.79749803013648,
+            "accuracy": 92.75256744055649,
+            "points": 458147
+        },
+        {
+            "tag": "N8TE",
+            "name": "Let\u2019s DomiN8TE",
+            "races": 123152,
+            "speed": 80.02548423851121,
+            "accuracy": 94.4604761775944,
+            "points": 16287677
+        },
+        {
+            "tag": "TALK",
+            "name": "RIZE TO THE OCCASION",
+            "races": 146667,
+            "speed": 78.27773791353644,
+            "accuracy": 93.71430620392798,
+            "points": 19124354
+        },
+        {
+            "tag": "DUBSZ",
+            "name": "For Da Dub",
+            "races": 20800,
+            "speed": 53.513522559914314,
+            "accuracy": 92.07236396312999,
+            "points": 2427525
+        },
+        {
+            "tag": "PR2W",
+            "name": "KEEP d LBs ALIVE pls",
+            "races": 401639,
+            "speed": 84.63573508796635,
+            "accuracy": 95.81182556034038,
+            "points": 54766428
+        },
+        {
+            "tag": "DRPT",
+            "name": "Driven Rapid Typists",
+            "races": 126705,
+            "speed": 89.4730260063497,
+            "accuracy": 94.35231817888733,
+            "points": 17303121
+        },
+        {
+            "tag": "RCG",
+            "name": "--Racing Blue--",
+            "races": 12826,
+            "speed": 76.3492444145589,
+            "accuracy": 94.0810308287146,
+            "points": 1667330
+        },
+        {
+            "tag": "DSNT",
+            "name": "Delta Squad",
+            "races": 321597,
+            "speed": 92.06384006927352,
+            "accuracy": 95.31032896836138,
+            "points": 44760997
+        },
+        {
+            "tag": "TOPGOD",
+            "name": "Godly Typists",
+            "races": 155930,
+            "speed": 80.7956957587029,
+            "accuracy": 94.11562609060563,
+            "points": 20604015
+        },
+        {
+            "tag": "SKITLZ",
+            "name": "Skittles Typer",
+            "races": 26359,
+            "speed": 65.69435440027677,
+            "accuracy": 90.92805185184201,
+            "points": 3184045
+        },
+        {
+            "tag": "RTAT",
+            "name": "Racetrack Attack",
+            "races": 94214,
+            "speed": 67.34776621464057,
+            "accuracy": 94.3108226226919,
+            "points": 11877459
+        },
+        {
+            "tag": "NTTEAM",
+            "name": "Nitro Type Team NT",
+            "races": 1547,
+            "speed": 72.07610236514213,
+            "accuracy": 93.31287860907875,
+            "points": 196378
+        },
+        {
+            "tag": "SSH",
+            "name": "Keep la LeaderBoards",
+            "races": 212177,
+            "speed": 85.382704272418,
+            "accuracy": 96.02260377734461,
+            "points": 29071634
+        },
+        {
+            "tag": "FREEHK",
+            "name": "Free  Hong Kong",
+            "races": 4,
+            "speed": 57.05357142857142,
+            "accuracy": 93.52112676056338,
+            "points": 481
+        },
+        {
+            "tag": "NYM",
+            "name": "Eponyms of NT",
+            "races": 239617,
+            "speed": 87.02593305343332,
+            "accuracy": 94.53912671868524,
+            "points": 32510253
+        },
+        {
+            "tag": "NTA",
+            "name": "*Ambassadors*",
+            "races": 74847,
+            "speed": 73.0904582753486,
+            "accuracy": 94.49346897008367,
+            "points": 9657233
+        },
+        {
+            "tag": "IRAN",
+            "name": "ActiveRacers",
+            "races": 1808,
+            "speed": 130.74973835408701,
+            "accuracy": 96.89158275031315,
+            "points": 289704
+        },
+        {
+            "tag": "FUSION",
+            "name": "FusionTyper Fan Club",
+            "races": 66,
+            "speed": 86.81893491124261,
+            "accuracy": 95.16643493906928,
+            "points": 9008
+        },
+        {
+            "tag": "SGUL",
+            "name": "Don\u2019t Delete LB",
+            "races": 16531,
+            "speed": 67.09846855990938,
+            "accuracy": 92.92227942613395,
+            "points": 2051447
+        },
+        {
+            "tag": "MANC1",
+            "name": "Thunder's alts",
+            "races": 1,
+            "speed": 48.92307692307692,
+            "accuracy": 94.33962264150944,
+            "points": 117
+        }
+    ]
+}

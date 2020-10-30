@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+
+<head>
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/static/style.css"></link>
+  <link rel="icon" href=""
+  <title>Sign Up</title>
+</head>
+
+<body>
+    <h1 style="text-align: center;">Nitrotype Leaderboard</h1>
+    <div id="outer">
+		<div id="header">
+			<img src="https://media.discordapp.net/attachments/768993158292832297/769231577334415410/LEADERBOARDS.png?width=422&height=422" alt="Logo" />
+		<strong><p>Nitrotype Leaderboard</p></strong>
+	</div>
+	<nav id="navbar">
+        <a href="/" class="activeNav navLink link">Home</a>
+        <a href="about.html" class="navLink link">About</a>
+        <a href="https://www.nitrotype.com/racer/lbbank"  class="navLink link">Donate</a>
+        <div class="dropdown">
+            <button class="dropbtn">Sign Up
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="/signup/player">Players</a>
+                <a href="/signup/team">Teams</a>
+            </div>
+        </div>
+        <div class="dropdown">
+            <button class="dropbtn">Leaderboards
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content">
+                <a href="/leaderboard/player">Players</a>
+                <a href="/leaderboard/team">Teams</a>
+            </div>
+        </div>
+  	</nav>
+    <br></br>
+	<form action="/signup/send/team" name="signup" method="POST" style="text-align: center;">
+		<input name='teamTag' placeholder='Your Team Tag Here' style="color: blue;" />
+        <input name="submit" type="submit" value="Join the Leaderboard" style="color: red;" />
+    </form>
+  </body>
+</html>
